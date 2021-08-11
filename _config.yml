@@ -3,8 +3,8 @@ title: Happiness Report
 email: nigu8394@colorado.edu
 description: >-
  Data analysis on Happiness report for the year 2015-19.
-baseurl: "/home" # the subpath of your site, e.g. /blog
-url: "https://nigu-crdds-databootcamp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/crdds-databootcamp" # the subpath of your site, e.g. /blog
+url: "https://sammy22.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # Build settings
 theme: minima
 plugins:
