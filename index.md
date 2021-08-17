@@ -8,6 +8,22 @@ The World Happiness Report is a landmark survey of the state of global happiness
 
 [Source](https://www.kaggle.com/unsdsn/world-happiness)
 
+## About the fields 
+- Country 
+- Region
+- HappinessRank
+- HappinesScore
+- StandardError
+- Economy
+- Family
+- Health
+- Freedom
+- Trust 
+- Generosity
+- DystopiaResidual
+
+    
 #### Here are some example pages:
+
 
 - [An Internal Link](notebook.ipynb)
