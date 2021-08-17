@@ -27,9 +27,9 @@ The World Happiness Report is a landmark survey of the state of global happiness
 - Changes in happiness scores of the countries over the years 2015-19
 - Happiest countries in the years 2015-19
 
-
-- [NoteBook](https://sammy22.github.io/crdds-databootcamp/notebook.html)
-- [Repository] (https://github.com/sammy22/crdds-databootcamp)
+#### Code 
+ - [NoteBook](https://sammy22.github.io/crdds-databootcamp/notebook.html)
+ - [Repository](https://github.com/sammy22/crdds-databootcamp)
 
 #### Results
 - Average happiness score was lowest in 2017 and highest in 2019 
